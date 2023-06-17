@@ -8,7 +8,6 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
-
   <script>
     function alterarItem(id) {
       window.location.href = "alterar.php?id=" + id;
@@ -27,7 +26,6 @@
   </style>
 </head>
 <body>
-  
 <div class="modal fade" id="modal-info">
   <div class="modal-dialog">
     <div class="modal-content">

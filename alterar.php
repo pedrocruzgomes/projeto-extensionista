@@ -79,7 +79,6 @@ if (isset($_GET['id'])) {
 <body>
   <div class="container">
     <h1 class="mt-4">ATUALIZAR CADASTRO DE ALUNO</h1>
-
     <form action="alterar.php?id=<?php echo $id; ?>" method="POST">
       <div class="form-group">
         <label class="form-txt" for="nome">Nome:</label>
